@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 182.2 182.8" style="enable-background:new 0 0 182.2 182.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#181716;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#181716;stroke-width:1.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#181716;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<radialGradient id="SVGID_1_" cx="71.1552" cy="124.5939" r="120.45" gradientTransform="matrix(1 0 0 -1 14 201.5111)" gradientUnits="userSpaceOnUse">
+	<stop  offset="6.000000e-02" style="stop-color:#FFA53F"/>
+	<stop  offset="0.15" style="stop-color:#F99E3B"/>
+	<stop  offset="0.26" style="stop-color:#EC8D32"/>
+	<stop  offset="0.37" style="stop-color:#E27E2B"/>
+	<stop  offset="0.58" style="stop-color:#CB571B"/>
+	<stop  offset="0.73" style="stop-color:#B7370E"/>
+	<stop  offset="0.84" style="stop-color:#181716"/>
+</radialGradient>
+<circle class="st0" cx="98.4" cy="99.4" r="80"/>
+<circle class="st1" cx="92.4" cy="92.4" r="80"/>
+<circle class="st2" cx="82.4" cy="83.4" r="80"/>
+</svg>
